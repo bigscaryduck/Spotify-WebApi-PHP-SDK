@@ -1,5 +1,5 @@
 {
-    "name": "kirilkirkov/spotify-webapi-sdk",
+    "name": "bigscaryduck/spotify-webapi-sdk",
     "description": "Spotify WebApi PHP Library",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
     "repositories": [
         {
           "type": "git",
-          "url": "https://github.com/kirilkirkov/Spotify-WebApi-PHP-SDK"
+          "url": "https://github.com/bigscaryduck/Spotify-WebApi-PHP-SDK"
         }
     ],
     "autoload": {
